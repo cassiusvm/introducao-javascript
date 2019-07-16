@@ -44,3 +44,5 @@ for(var i=0; i<pacientes.length; i++) {
     tdImc.textContent = imc.toFixed(2);
   }
 }
+
+// Fim da aula 03
